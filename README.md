@@ -35,7 +35,11 @@ This engine utilizes a highly optimized Monte Carlo approach mirroring quantitat
 Below is a screen recording of the engine's interactive PyQt5 output. By calculating the European Call price across a grid of differing Strike Prices ($K$) and Maturities ($T$), the engine renders a 3D visualization of the options pricing landscape.
 
 
-https://github.com/user-attachments/assets/e514a9d0-2dd6-4575-8e6e-1329a966ddff
+
+
+https://github.com/user-attachments/assets/598ba697-61ce-413c-970b-5cb897d3fd12
+
+
 
 
 ---
